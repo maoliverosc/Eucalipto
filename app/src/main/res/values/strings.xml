@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Eucalipto</string>
+    <string name="Nodo_1">Nodo1</string>
+    <string name="Nodo_2">Nodo2</string>
+    <string name="Nodo_3">Nodo3</string>
+    <string name="Temperatura">Temperatura</string>
+    <string name="Humedad">Humedad</string>
+    <string name="Plagas">Plagas</string>
+    <string name="Maleza">Maleza</string>
+    <string name="Grados_Celsius">°C</string>
+    <string name="Centimetros">cm</string>
+    <string name="Número">#</string>
+    <string name="atras">Volver</string>
+    <string name="splashMessage">Esta aplicación permite realizar seguimiento remoto a cultivos de Eucalipto por medio de nodos sensores instalados en campo que permiten obtener información en tiempo real de diferentes variables que pueden afectar el crecimiento de los arboles</string>
+    <string name="splashAppTittle">Seguimiento remoto a cultivos de Eucalipto en campo</string>
+    <string name="mainNodesPick">Escoge un nodo para analizar las variables</string>
+    <string name="Salir">Salir</string>
+    <string name="Opciones">Opciones</string>
+</resources>
